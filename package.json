@@ -70,7 +70,7 @@
     "gulp-useref": "^4.0.1",
     "http-proxy-middleware": "^1.0.4",
     "lazypipe": "^1.0.2",
-    "moment": "^2.25.3",
+    "moment": "^2.29.2",
     "path": "^0.12.7"
   },
   "dependencies": {}
